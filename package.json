@@ -2,9 +2,8 @@
   "name": "@cityssm/council-agendas-2022",
   "version": "1.0.0",
   "description": "2022 City Council agendas archived on GitHub for easy access.",
-  "main": "index.js",
   "scripts": {
-    "build": "npx @cityssm/pdf-metadata-recorder -c config.metadata.json"
+    "build": "npx @cityssm/pdf-metadata-recorder"
   },
   "author": "The Corporation of the City of Sault Ste. Marie"
 }
